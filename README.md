@@ -20,5 +20,5 @@ I have hands-on experience with core basics and methodologies, including:
 
 
 
-💡 *"Si conoces al enemigo y te conoces a ti mismo, no debes temer el resultado de cien batallas". Esto implica que el conocimiento profundo de uno mismo y del adversario es crucial para el éxito en cualquier conflicto."*
+💡 *""If you know the enemy and know yourself, you not need to fear the result of a hundred battles." This implies that deep knowledge of oneself and the adversary is crucial for success in any conflict."*
 - Sun Tzu 
