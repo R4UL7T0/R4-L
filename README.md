@@ -1,7 +1,7 @@
-## Hi I am Raúl, former Cybersecurity Consultant and Computer Systems and Software Development Student
+## Hi I am Raúl, Cybersecurity Consultant and Computer Systems and Software Development Student
 
 ## About Me
-I am a former **Red Teamer** passionate about cybersecurity. My work focuses on simulating adversarial techniques to strengthen security posture on your company and uncover vulnerabilities before real attackers do.
+I am a **Red Teamer** passionate about cybersecurity. My work focuses on simulating adversarial techniques to strengthen security posture on your company and uncover vulnerabilities before real attackers do.
 
 ## Skills & Tools
 I have hands-on experience with core basics and methodologies, including:
