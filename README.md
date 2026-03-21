@@ -22,3 +22,6 @@ I have hands-on experience with core basics and methodologies, including:
 
 💡 *""“If you know the enemy and know yourself, you need not to fear the result of 100 battles. IF you know the yourself but not enemy, for every victory gained, you will also suffer a defeat.”"*
 - Sun Tzu 
+
+Disclaimer:
+All the tools, tricks and information I post on this website are for educational and practical purposes. 
