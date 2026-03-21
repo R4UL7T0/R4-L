@@ -20,5 +20,5 @@ I have hands-on experience with core basics and methodologies, including:
 
 
 
-💡 *""If you know the enemy and know yourself, you not need to fear the result of a hundred battles." This implies that deep knowledge of oneself and the adversary is crucial for success in any conflict."*
+💡 *""“If you know the enemy and know yourself, you need not to fear the result of 100 battles. IF you know the yourself but not enemy, for every victory gained, you will also suffer a defeat.”"*
 - Sun Tzu 
