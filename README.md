@@ -9,7 +9,7 @@ I have hands-on experience with core basics and methodologies, including:
 - **Metasploit Framework** – exploitation and post-exploitation  
 - **Burp Suite** – web application testing  
 - **Wireshark** – traffic analysis and packet inspection  
-- **Linux environments**for offensive security labs  
+- **Linux environments** for offensive security labs  
 - **Virtualization & Containers** (VirtualBox, Docker) to design isolated testing networks  
 
 ## What I Do
@@ -20,7 +20,7 @@ I have hands-on experience with core basics and methodologies, including:
 
 
 
-💡 *""“If you know the enemy and know yourself, you need not to fear the result of 100 battles. IF you know the yourself but not enemy, for every victory gained, you will also suffer a defeat.”"*
+💡 *""“If you know the enemy and know yourself, you not need to fear the result of 100 battles. If you know yourself but not enemy, for every victory gained, you will also suffer a defeat.”"*
 - Sun Tzu 
 
 Disclaimer:
